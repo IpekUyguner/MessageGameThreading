@@ -12,4 +12,9 @@ messages in the terminal. Project is finished after 10 mutual messages are achie
 java -cp MessageGameThreading-1.0-SNAPSHOT.jar Main 
 ```
 
+Alternatively, you can directly run the script to run everything.
+```
+bash run.sh 
+```
+
 Note: To see the version where players work as seperate java process, check the MessageGame project.
