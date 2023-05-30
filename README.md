@@ -9,7 +9,7 @@ mvn install
 In order to run the jar file, run the following command. At the end, you can see their
 messages in the terminal. Project is finished after 10 mutual messages are achieved.
 ```
-java -cp SocketGame-1.0-SNAPSHOT.jar Main 
+java -cp MessageGameThreading-1.0-SNAPSHOT.jar Main 
 ```
 
 Note: To see the version where players work as seperate java process, check the MessageGame project.
